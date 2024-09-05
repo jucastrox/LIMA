@@ -1,0 +1,17 @@
+body{
+    background-color: palevioletred;
+}
+
+h1{
+    text-align: center;
+    color: rgb(201, 22, 81);
+}
+
+h2{
+    color: black;
+}
+
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
