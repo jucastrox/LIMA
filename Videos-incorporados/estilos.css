@@ -1,0 +1,38 @@
+body{
+    background-color: palevioletred;
+}
+
+a{
+    color:pink;
+}
+
+iframe{
+   
+    opacity: 88%;
+    border: 8px solid;
+    border-color: rgb(201, 22, 81);
+}
+
+img:hover{
+    opacity: 100%;
+}
+*{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(201, 22, 81);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
